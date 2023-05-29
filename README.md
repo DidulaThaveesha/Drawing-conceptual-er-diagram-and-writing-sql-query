@@ -1,2 +1,2 @@
 # Drawing-conceptual-er-diagram-and-writing-sql-query
-the process of designing an ER diagram and writing SQL queries go hand in hand. 
+ the process of designing an ER diagram and writing SQL queries go hand in hand. The ER diagram provides a visual representation of the database structure, while SQL queries allow for data manipulation and retrieval based on the defined schema. Together, these tools facilitate effective database management and enable the extraction of valuable insights from the data.
